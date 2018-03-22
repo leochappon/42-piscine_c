@@ -1,0 +1,5 @@
+Credentials cache: API:BB58E814-3FDA-4859-B863-EF6155D5267D
+        Principal: lchappon@42.FR
+
+  Issued                Expires               Principal
+Aug  3 09:04:19 2017  Aug 10 09:04:14 2017  krbtgt/42.FR@42.FR
